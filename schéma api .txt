@@ -1,0 +1,28 @@
+/tickets
+	liste all tickets
+	/nb
+		nombre ticket total
+		/open
+			nombre ticket open
+			/journa
+				nombre ticket open en 1 jour
+			/priority
+				nombre ticket critique
+
+		/pending
+			nombre ticket pending
+			/journa
+				nombre ticket pending en 1 jour
+		/close
+			nombre ticket close
+			/journa
+				nombre ticket close en 1 jour
+	
+	
+/contracts
+	liste all contract
+	/expire
+		liste all contract expire
+	/valide
+		liste all contract valide
+	
